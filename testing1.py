@@ -4,5 +4,3 @@ def solve(a, b):
 print(solve(20, 50))
 
 print(solve(20, 60))
-
-print(solve(10, 20))
